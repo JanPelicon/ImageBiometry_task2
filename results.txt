@@ -1,0 +1,23 @@
+yolov2-tiny
+	Average IOU = 0.428
+	Average precision = 0.833
+	Average recall = 0.938
+	Average inference time = 31.372 ms
+
+yolov3-tiny
+	Average IOU = 0.589
+	Average precision = 0.949
+	Average recall = 0.924
+	Average inference time = 32.540 ms
+
+yolov4-tiny
+	Average IOU = 0.754
+	Average precision = 0.962
+	Average recall = 0.952
+	Average inference time = 39.040 ms
+
+yolov3
+	Average IOU = 0.829
+	Average precision = 0.982
+	Average recall = 0.978
+	Average inference time = 315.332 ms

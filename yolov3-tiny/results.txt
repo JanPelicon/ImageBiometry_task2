@@ -1,0 +1,4 @@
+Average IOU = 0.829
+Average precision = 0.982
+Average recall = 0.978
+Average inference time = 315.332 ms
